@@ -1,0 +1,12 @@
+{
+"name":"Przemyslaw",
+"email":"p@p.com.pl"
+},
+{
+"name":"Anna",
+"email":"anna@ana.com.pl"
+},
+{
+"name":"Marek",
+"email":"m@m.pl"
+}

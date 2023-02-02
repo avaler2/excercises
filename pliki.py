@@ -1,0 +1,7 @@
+file = open("text.txt", "a", encoding="utf-8")
+odp = input("Wpisz jakieś swoje zdanie drogi Użytkowniku, a ja je zapiszę w pliku:")
+file.write("\n" + odp)
+file.close()
+file = open("text.txt", "r", encoding="utf-8")
+print(file.read())
+file.close()

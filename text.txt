@@ -1,0 +1,11 @@
+Zapiszmy sobie pierwsze zdanie w normalnym języku polskim. 
+Zobaczymy potem, jak otworzyć można plik w dowolnym programie w Pythonie.
+A następnie wyświetlimy zawartość pliku na ekranie.
+Proszę zapisać plik pod nowym tytułem.Nowe zdanie zapisane w pliku z wykorzystaniem funkcji file.write()Kolejne dane do mojego pliku z wykorzystaniem file.write()I jeszcze raz to samo z wykorzystaniem file.write()
+I jeszcze raz to samo z wykorzystaniem file.write()/n
+A teraz nie to samo z wykorzystaniem file.write()\n
+Aby doda� tekst od nowej linii poprzed� go 
+ orzystaniem file.write()
+No dobra, zobaczymyTestujemy zapisywanie danych do pliku OK, niech Tobie b�dczie
+ I jeszcze raz, i jeszcze raz ja
+Oto oje kolejne zdanie
