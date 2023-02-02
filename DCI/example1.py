@@ -3,7 +3,7 @@ def sum_of_list(list):
     print(list)
     flatten_list=[]
     for item in list: 
-        print(item)
+        print("Item value: " + str(item))
         flatten_list.append(item)
     return sum(flatten_list)
 
