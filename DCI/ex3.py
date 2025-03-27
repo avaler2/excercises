@@ -1,5 +1,6 @@
 # This function returns values quite fast O(n) time or O(n) space, it also has an error
-def get_n(n, memoize={1: 0, 2: 1}):
+#def get_n(n, memoize={1: 0, 2: 1}):
+def get_n(n):
     if n in memoize:
         memoize[n]
     else:
